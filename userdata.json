@@ -28,4 +28,10 @@
         "expirydate": "30-08-2026",
         "Allowoffline": false
     }
+    ,{
+        "device_id": "5643627eed726eca",
+        "key": "gims237",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
+    }
 ]
