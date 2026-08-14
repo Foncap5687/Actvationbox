@@ -14,13 +14,18 @@
     {
         "device_id": "3ba60ca5dddf8acb",
         "key": "123456789",
-        "expirydate": "15-08-2026",
+        "expirydate": "30-08-2026",
         "Allowoffline": false
     },
     {
         "device_id": "3ba60ca5dddf8acb",
         "key": "12345678",
         "expirydate": "15-10-2026",
+        "Allowoffline": false
+    },{
+        "device_id": "48b663dbf734c4a7",
+        "key": "gibs123",
+        "expirydate": "30-08-2026",
         "Allowoffline": false
     }
 ]
